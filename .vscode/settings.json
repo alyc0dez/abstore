@@ -1,0 +1,9 @@
+{
+    "python.testing.pytestArgs": [
+        "."
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "appService.defaultWebAppToDeploy": "/subscriptions/f62786ae-45d3-47f2-84d4-4e1490c5fa4b/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/ab-store",
+    "appService.deploySubpath": "."
+}
