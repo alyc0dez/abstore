@@ -23,6 +23,7 @@ whitenoise = "*"
 gunicorn = "*"
 waitress = "*"
 dj-database-url = "*"
+django-silk = "*"
 
 [dev-packages]
 pytest = "*"
